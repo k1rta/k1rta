@@ -1,8 +1,8 @@
 # Hello, :globe_with_meridians: !
 
-:octocat: : I am Kirta from Tallinn, Estonia and I currently work as a Test Automation Developer
+:octocat: I am Kirta from Tallinn, Estonia and I currently work as a Test Automation Developer.
 
-:key: : software testing, test automation, continuous integration, sophisticated test logic
+:key: software testing, test automation, continuous integration
 
 # Bio
 
