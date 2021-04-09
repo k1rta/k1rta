@@ -13,7 +13,7 @@ I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindr
 
 I like doggos, sports, photography, nature and travelling.
 
-I am systematic in my assignments, try to take life as positive as possible, easy to approach and not affraid to be independent in complicated situations, but always ready to ask for help if it is needed.
+I am systematic in my assignments, try to take life as positive as possible, easy to approach and not afraid to be independent in complicated situations, but always ready to ask for help if it is needed.
 
 I also offer software testing consultants under [Mitker](https://mitker.ee/) and giving software testing trainings with my two amigos @erkkokebbinau and @helenanull under [BigByte](https://bigbyte.ee/).
 </p>
