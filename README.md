@@ -38,8 +38,8 @@ I am super happy if my day-to-day work consists of the following frameworks, too
 
 I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. I think critically and adobt changes easily if they help to improve current working climate.
 
-keywords: software testing, test automation, continuous integration
+Keywords: software testing, test automation, continuous integration.
 
 # :mailbox: How to reach me?
 
-If you need ideas or help regarding software testing or test automation, let me know I am happy to help : :email: kirtalindakarits@icloud.com.
+If you need ideas or help regarding software testing or test automation, let me know I am happy to help : :email:kirtalindakarits@icloud.com.
