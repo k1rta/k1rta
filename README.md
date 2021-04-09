@@ -20,7 +20,7 @@ I also offer software testing consultants under [Mitker](https://mitker.ee/) and
 
 # :rocket: Tech
 
-I am super happy if my day-to-day work consists of the following frameworks, tools and machine:
+I am super happy if my day-to-day work consists of the following frameworks and tools:
 
 <p>
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
@@ -36,7 +36,7 @@ I am super happy if my day-to-day work consists of the following frameworks, too
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. I think critically and adobt changes easily if they help to improve current working climate.
+I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. I think critically and adopt changes easily if they help to improve current working climate.
 
 Keywords: software testing, test automation, continuous integration.
 
