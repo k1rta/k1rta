@@ -11,7 +11,7 @@ I have previously studied in Cyprus and South Korea and worked in Malta.
 
 I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 3 years I have worked in my own company called Nekmit.
 
-I like :thumbsup: doggos, sports, photography, nature and travelling.
+I like doggos, sports, photography, nature and travelling.
 
 I am systematic in my assignments, try to take life as positive as possible, easy to approach and not affraid to be independent in complicated situations, but always ready to ask for help if it is needed.
 
@@ -38,7 +38,7 @@ I am super happy if my day-to-day work consists of the following frameworks, too
 
 I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. I think critically and adobt changes easily if they help to improve current working climate.
 
-:key: software testing, test automation, continuous integration
+keywords: software testing, test automation, continuous integration
 
 # :mailbox: How to reach me?
 
