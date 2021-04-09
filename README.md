@@ -4,12 +4,19 @@
 
 # :dart: Bio
 
-I obtained a BScSS and MSSc in International Relations from Tallinn University of Technology. 
-I have previously studied in Cyprus and South Korea and worked in Malta. 
-I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 3 years I have worked in my own company called Nekmit. 
-I like :thumbsup: : doggos, sports, photography, nature and travelling. 
-I am :package: : systematic in my assignments, try to take life as positive as possible, easy to approach and not affraid to be independent in complicated situations, but always ready to ask for help if it is needed. 
+<p>
+I obtained a BScSS and MSSc in International Relations from Tallinn University of Technology.
+
+I have previously studied in Cyprus and South Korea and worked in Malta.
+
+I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 3 years I have worked in my own company called Nekmit.
+
+I like :thumbsup: : doggos, sports, photography, nature and travelling.
+
+I am :package: : systematic in my assignments, try to take life as positive as possible, easy to approach and not affraid to be independent in complicated situations, but always ready to ask for help if it is needed.
+
 I am also :pizza: : offering software testing consultants under [Mitker](https://mitker.ee/) and giving software testing trainings with my two amigos @erkkokebbinau and @helenanull under [BigByte](https://bigbyte.ee/).
+</p>
 
 # :rocket: Tech
 
@@ -35,4 +42,4 @@ I enjoy creating automated tests and making complicated test automation code int
 
 # :mailbox: How to reach me?
 
-If you need ideas or help regarding software testing or test automation, let me know I am happy to help: :email: kirtalindakarits@icloud.com.
+If you need ideas or help regarding software testing or test automation, let me know I am happy to help : :email: kirtalindakarits@icloud.com.
