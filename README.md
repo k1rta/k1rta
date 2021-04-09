@@ -42,4 +42,4 @@ Keywords: software testing, test automation, continuous integration.
 
 # :mailbox: How to reach me?
 
-If you need ideas or help regarding software testing or test automation, let me know I will be happy to help <a href="mailto:kirtalindakarits@icloud.com">:email:</a> .
+If you need ideas or help regarding software testing or test automation, let me know, I will be happy to help <a href="mailto:kirtalindakarits@icloud.com">:email:</a> .
