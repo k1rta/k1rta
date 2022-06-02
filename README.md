@@ -40,6 +40,11 @@ I enjoy creating automated tests and making complicated test automation code int
 
 Keywords: software testing, test automation, continuous integration.
 
+# Latest
+
+Learn JavaScript
+Nordic Testing Days
+
 # :mailbox: How to reach me?
 
 If you need ideas or help regarding software testing or test automation, let me know, I will be happy to help <a href="mailto:kirtalindakarits@icloud.com">:email:</a> .
