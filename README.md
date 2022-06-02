@@ -42,7 +42,7 @@ Keywords: software testing, test automation, continuous integration.
 
 # Latest
 
-Learn JavaScript - Codeacademy && Nordic Testing Days 2022 && .
+Learn JavaScript - Codeacademy && Nordic Testing Days 2022 && working on: https://github.com/k1rta/cypress-test.
 
 # :mailbox: How to reach me?
 
