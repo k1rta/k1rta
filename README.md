@@ -42,7 +42,7 @@ Keywords: software testing, test automation, continuous integration.
 
 # Latest
 
-Learn JavaScript - Codeacademy && Nordic Testing Days 2022
+Learn JavaScript - Codeacademy && Nordic Testing Days 2022 && .
 
 # :mailbox: How to reach me?
 
