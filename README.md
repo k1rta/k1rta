@@ -9,7 +9,7 @@ I obtained a BScSS and MSSc in International Relations from Tallinn University o
 
 I have previously studied in Cyprus and South Korea and worked in Malta.
 
-I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 3 years I have worked in my own company called Nekmit.
+I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 4 years I have worked in my own company called Nekmit.
 
 I like doggos, sports, photography, nature and travelling.
 
@@ -42,7 +42,7 @@ Keywords: software testing, test automation, continuous integration.
 
 # Latest
 
-Learn JavaScript - Codeacademy && Nordic Testing Days 2022 && working on: https://github.com/k1rta/cypress-test.
+Learn JavaScript - Codeacademy && Nordic Testing Days 2022, Cyber Innovation Conference 2022 && working on: https://github.com/k1rta/cypress-test.
 
 # :mailbox: How to reach me?
 
