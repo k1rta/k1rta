@@ -17,6 +17,10 @@ I am systematic in my assignments, try to take life as positive as possible, eas
 
 </p>
 
+# Trainings
+
+Rapid Software Testing by Michael Bolton, Critical Thinking by Michael Bolton
+
 # :rocket: Tech
 
 I am super happy if my day-to-day work consists of the following frameworks and tools:
