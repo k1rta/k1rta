@@ -15,7 +15,6 @@ I like doggos, sports, photography, nature and travelling.
 
 I am systematic in my assignments, try to take life as positive as possible, easy to approach and not afraid to be independent in complicated situations, but always ready to ask for help if it is needed.
 
-I also offer software testing consultants under [Mitker](https://mitker.ee/) and giving software testing trainings with my two amigos @erkkokebbinau and @helenanull under [BigByte](https://bigbyte.ee/).
 </p>
 
 # :rocket: Tech
@@ -42,7 +41,7 @@ Keywords: software testing, test automation, continuous integration.
 
 # Latest
 
-Learn JavaScript - Codeacademy && Nordic Testing Days 2022, Cyber Innovation Conference 2022 && working on: https://github.com/k1rta/cypress-test.
+Learn JavaScript - Codeacademy && Nordic Testing Days 2022, Cyber Innovation Conference 2022.
 
 # :mailbox: How to reach me?
 
