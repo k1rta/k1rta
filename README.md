@@ -9,9 +9,9 @@ I obtained a BScSS and MSSc in International Relations from Tallinn University o
 
 I have previously studied in Cyprus and South Korea and worked in Malta.
 
-I have 7 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 4 years I have worked in my own company called Nekmit.
+I have 8 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 4 years I have been software testing consultant.
 
-I like doggos, sports, photography, nature and travelling.
+I like doggos, gym, photography, nature and travelling.
 
 I am systematic in my assignments, try to take life as positive as possible, easy to approach and not afraid to be independent in complicated situations, but always ready to ask for help if it is needed.
 
@@ -40,7 +40,8 @@ I am super happy if my day-to-day work consists of the following frameworks and 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
-I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. I think critically and adopt changes easily if they help to improve current working climate.
+I enjoy creating automated tests and making complicated test automation code into easily understandable, structured and neat test automation code. 
+I think critically and adopt changes easily if they help to improve current working climate.
 
 Keywords: software testing, test automation, continuous integration.
 
