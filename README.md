@@ -47,7 +47,7 @@ Keywords: software testing, test automation, continuous integration.
 
 # 🗓 Latest
 
-* Learn JavaScript - Codeacademy
+* Learn JavaScript, TypeScript, SQL, How to Code - Codeacademy
 * Nordic Testing Days 2022
 * Cyber Innovation Conference 2022
 
