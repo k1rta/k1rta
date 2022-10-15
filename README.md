@@ -9,7 +9,7 @@ I obtained a BScSS and MSSc in International Relations from Tallinn University o
 
 I studied in Cyprus and South Korea as an exhange student and worked in Malta.
 
-I have 8 years of working experience as a QA Engineer at Kuehne+Nagel, iGame, Nekmit and Cybernetica.
+I have 8 years of working experience at Kuehne+Nagel, iGame, Nekmit and Cybernetica.
 
 I like doggos, gym, photography, nature and travelling.
 
