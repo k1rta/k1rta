@@ -1,15 +1,15 @@
 # Hello, :globe_with_meridians: !
 
-:octocat: My name is Kirta and I am from Tallinn, Estonia. I currently work as a Test Automation Developer.
+:octocat: My name is Kirta and I am from Tallinn, Estonia. I currently work as a Senior Software Tester at Cybernetica.
 
 # :dart: Bio
 
 <p>
 I obtained a BScSS and MSSc in International Relations from Tallinn University of Technology.
 
-I have previously studied in Cyprus and South Korea and worked in Malta.
+I  previously studied in Cyprus and South Korea and worked in Malta.
 
-I have 8 years of working experience as a software tester at Kuehne+Nagel, Kindred and for the last 4 years I have been software testing consultant.
+I have 8 years of working experience as a software tester at Kuehne+Nagel, iGame, Nekmit and Cybernetica.
 
 I like doggos, gym, photography, nature and travelling.
 
