@@ -1,6 +1,6 @@
 # Hello, :globe_with_meridians: !
 
-:octocat: I'm Kirta, hailing from the beautiful city of Tallinn, Estonia and I have my sights set on consultancy QA positions.
+:octocat: I'm Kirta, hailing from the beautiful city of Tallinn, Estonia and I have my sights set on QA consultancy positions.
 
 # :dart: Bio
 
