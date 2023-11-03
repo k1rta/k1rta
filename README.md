@@ -36,7 +36,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="Linear" src="https://img.shields.io/badge/linear-800080?logo=linear&logoColor=white&style=for-the-badge" />
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-181717?logo=jenkins&logoColor=white&style=for-the-badge" />
 <img alt="CircleCi" src="https://img.shields.io/badge/circleci-181717?logo=circleci&logoColor=white&style=for-the-badge" />
-<img alt="macOS" src="https://img.shields.io/badge/macos-FFFF00?logo=macos&logoColor=white&style=for-the-badge" />
+<img alt="macOS" src="https://img.shields.io/badge/macos-FFFF00?logo=macos&logoColor=black&style=for-the-badge" />
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
