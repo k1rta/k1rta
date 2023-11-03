@@ -7,7 +7,7 @@
 <p>
 I hold both a BScSS and MSSc in International Relations, earned from Tallinn University of Technology. My educational journey took me to Cyprus and South Korea as an exchange student, and I also gained professional experience while working in Malta.
 
-I've cultivated a wealth of experience, amassing nine years of diverse QA roles at Kuehne+Nagel, iGame, Nekmit, and Cybernetica. Beyond the professional realm, my passions include cherishing time with our furry companions, maintaining a fitness regimen, immortalizing life's moments through photography, immersing myself in nature, and embarking on thrilling adventures across the globe.
+I've cultivated a wealth of experience, amassing nine years of diverse QA roles at Kuehne+Nagel, iGame, Nekmit (client Kindred), and Cybernetica. Beyond the professional realm, my passions include cherishing time with our furry companions, maintaining a fitness regimen, immortalizing life's moments through photography, immersing myself in nature, and embarking on thrilling adventures across the globe.
 
 I approach my assignments with a methodical and results-driven mindset, striving for excellence in each task. My peers acknowledge me for my approachability, and I excel in fostering a strong team spirit. While I may take some time to settle in, once integrated, I become an invaluable and steadfast member of the team, known for my unwavering commitment. I maintain a consistently positive outlook on life and wholeheartedly welcome necessary changes, viewing them as opportunities for growth.
 
