@@ -33,7 +33,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="GitHub" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
-<img alt="Linear" src="https://img.shields.io/badge/linear-0052CC?logo=linear&logoColor=white&style=for-the-badge" />
+<img alt="Linear" src="https://img.shields.io/badge/linear-#5E6AD2?logo=linear&logoColor=white&style=for-the-badge" />
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-181717?logo=jenkins&logoColor=white&style=for-the-badge" />
 <img alt="CircleCi" src="https://img.shields.io/badge/circleci-181717?logo=circleci&logoColor=white&style=for-the-badge" />
 <img alt="macOS" src="https://img.shields.io/badge/macos-000000?logo=macos&logoColor=white&style=for-the-badge" />
