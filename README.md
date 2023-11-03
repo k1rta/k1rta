@@ -38,7 +38,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="CircleCi" src="https://img.shields.io/badge/circleci-181717?logo=circleci&logoColor=white&style=for-the-badge" />
 <img alt="macOS" src="https://img.shields.io/badge/macos-FFFF00?logo=macos&logoColor=black&style=for-the-badge" />
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
-<img alt="iTerm" src="https://img.shields.io/badge/iTerm-000000?logo=iTerm&logoColor=white&style=for-the-badge" />
+<img alt="iterm2" src="https://img.shields.io/badge/iterm2-000000?logo=iterm2&logoColor=white&style=for-the-badge" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
 
