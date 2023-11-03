@@ -25,7 +25,7 @@ For me, a day well spent means working with the following frameworks and tools:
 
 
 <p>
-<img alt="Cypress" src="https://img.shields.io/badge/cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
+<img alt="Cypress" src="https://img.shields.io/badge/cypress-000000?logo=cypress&logoColor=white&style=for-the-badge" />
 <img alt="Confluence" src="https://img.shields.io/badge/confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />
 <img alt="Notion" src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
@@ -33,7 +33,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="GitHub" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
-<img alt="Linear" src="https://img.shields.io/badge/linear-#5E6AD2?logo=linear&logoColor=white&style=for-the-badge" />
+<img alt="Linear" src="https://img.shields.io/badge/linear-800080?logo=linear&logoColor=white&style=for-the-badge" />
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-181717?logo=jenkins&logoColor=white&style=for-the-badge" />
 <img alt="CircleCi" src="https://img.shields.io/badge/circleci-181717?logo=circleci&logoColor=white&style=for-the-badge" />
 <img alt="macOS" src="https://img.shields.io/badge/macos-000000?logo=macos&logoColor=white&style=for-the-badge" />
