@@ -40,6 +40,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
 <img alt="iterm2" src="https://img.shields.io/badge/iterm2-000000?logo=iterm2&logoColor=white&style=for-the-badge" />
 <img alt="Mocha" src="https://img.shields.io/badge/mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
+<img alt="Chai" src="https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white&style=for-the-badge" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 
   
