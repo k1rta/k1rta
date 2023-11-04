@@ -45,7 +45,7 @@ I take pleasure in crafting automated tests, transforming intricate test automat
 
 # 🔑 Keywords
 
-Effective communication & collaboration, software testing expertise, test automation proficiency, meticulous manual testing, seamless continuous integration.
+Effective communication & collaboration, software testing expertise, test automation proficiency, meticulous manual testing, seamless continuous integration, continuous deployment. 
 
 # 🗓 Latest
 
