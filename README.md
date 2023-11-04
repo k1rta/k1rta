@@ -23,7 +23,6 @@ I approach my assignments with a methodical and results-driven mindset, striving
 
 For me, a day well spent means working with the following frameworks and tools:
 
-
 <p>
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-000000?logo=cypress&logoColor=white&style=for-the-badge" />
 <img alt="Confluence" src="https://img.shields.io/badge/confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />
@@ -44,7 +43,9 @@ For me, a day well spent means working with the following frameworks and tools:
 
 I take pleasure in crafting automated tests, transforming intricate test automation code into easily understandable, structured, and clean solutions. My approach is rooted in critical thinking, enabling me to readily embrace changes that enhance our current working environment.
 
-Keywords: communication, software testing, test automation, manual testing, continuous integration.
+# 🔑 Keywords
+
+* effective communication & collaboration, software testing expertise, test automation proficiency, meticulous manual testing, seamless continuous integration.
 
 # 🗓 Latest
 
