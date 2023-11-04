@@ -30,7 +30,7 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/github-actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
+<img alt="GitHubActions" src="https://img.shields.io/badge/github-actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
 <img alt="Linear" src="https://img.shields.io/badge/linear-800080?logo=linear&logoColor=white&style=for-the-badge" />
