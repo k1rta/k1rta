@@ -38,7 +38,10 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="macOS" src="https://img.shields.io/badge/macos-FFFF00?logo=macos&logoColor=black&style=for-the-badge" />
 <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&logoColor=white&style=for-the-badge" />
 <img alt="iterm2" src="https://img.shields.io/badge/iterm2-000000?logo=iterm2&logoColor=white&style=for-the-badge" />
+<img alt="mocha" src="https://img.shields.io/badge/mocha-#8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+
+  
 </p>
 
 I take pleasure in crafting automated tests, transforming intricate test automation code into easily understandable, structured, and clean solutions. My approach is rooted in critical thinking, enabling me to readily embrace changes that enhance our current working environment.
