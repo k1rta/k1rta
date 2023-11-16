@@ -18,6 +18,7 @@ I approach my assignments with a methodical and results-driven mindset, striving
 * Rapid Software Testing by Michael Bolton
 * Critical Thinking by Michael Bolton
 * Real World Testing with Cypress
+* The Complete Cypress v12 Course: From Zero to Expert!
 
 # :rocket: Tech
 
@@ -50,7 +51,7 @@ I take pleasure in crafting automated tests, transforming intricate test automat
 
 # 🔑 Keywords
 
-Effective communication & collaboration, software testing mindset, test automation proficiency, meticulous manual testing, seamless continuous integration, continuous deployment. 
+Effective communication & collaboration & reliable & transparent, software testing mindset, test automation proficiency, sharp manual testing, continuous integration, continuous deployment. 
 
 # 🗓 Latest
 
