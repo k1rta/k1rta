@@ -10,7 +10,7 @@
 
 # 💼 Experience
 
- - 10 years in QA roles at Kuehne+Nagel, iGame, Nekmit (client: Kindred), Cybernetica, Klaus, Helmes
+ - 10 years in QA roles at Kuehne+Nagel, Nekmit (client: Kindred), Cybernetica, Klaus, Helmes
  - Skilled in manual testing, test automation, and continuous integration/deployment
  - Strong background in software testing, test automation, and problem-solving, now transitioning to coding
 
