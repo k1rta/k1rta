@@ -1,28 +1,35 @@
 # Hello, :globe_with_meridians: !
 
-:octocat: I'm Kirta, hailing from the beautiful city of Tallinn, Estonia and I have my sights set on QA consultancy positions.
+:octocat: Hi, I’m Kirta from Tallinn, Estonia. Over time, I’ve developed a strong interest in coding and am eager to advance my skills as I explore a career in this exciting field. As a beginner, I’m committed to learning, improving, and embracing challenges to grow as a developer.
 
-# :dart: Bio
+# 🎓 Education
 
-<p>
-I hold both a BScSS and MSSc in International Relations, earned from Tallinn University of Technology. My educational journey took me to Cyprus and South Korea as an exchange student, and I also gained professional experience while working in Malta.
+  - BScSS & MSSc in International Relations, Tallinn University of Technology
+  - Exchange studies in Cyprus and South Korea
+  - Work experience in Malta
 
-I've cultivated a wealth of experience, amassing nine years of diverse QA roles at Kuehne+Nagel, iGame, Nekmit (client Kindred), and Cybernetica. Beyond the professional realm, my passions include cherishing time with our furry companions, maintaining a fitness regimen, immortalizing life's moments through photography, immersing myself in nature, and embarking on thrilling adventures across the globe.
+# 💼 Experience
 
-I approach my assignments with a methodical and results-driven mindset, striving for excellence in each task. My peers acknowledge me for my approachability, and I excel in fostering a strong team spirit. While I may take some time to settle in, once integrated, I become an invaluable and steadfast member of the team, known for my unwavering commitment. I maintain a consistently positive outlook on life and wholeheartedly welcome necessary changes, viewing them as opportunities for growth.
+ - 10 years in QA roles at Kuehne+Nagel, iGame, Nekmit (client: Kindred), Cybernetica, Klaus, Helmes
+ - Skilled in manual testing, test automation, and continuous integration/deployment
+ - Strong background in software testing, test automation, and problem-solving, now transitioning to coding
 
-</p>
+# 🎯 Strengths
 
-# 📋 Trainings
+- Clear communication, collaboration, and a results-driven mindset
+- Eye for details and improvements
+- Passion for coding, clean automation, and problem-solving
+- Very positive, adaptable, and eager to grow
+  
+# 📋 Trainings & Certification
 
-* Rapid Software Testing by Michael Bolton
-* Critical Thinking by Michael Bolton
-* Real World Testing with Cypress
-* The Complete Cypress v12 Course: From Zero to Expert!
+- Rapid Software Testing (Michael Bolton)
+- Critical Thinking (Michael Bolton)
+- Real World Testing with Cypress
+- Cypress v12: Course: From Zero to Expert!
+- Python Programming Basics
 
 # :rocket: Tech
-
-For me, a day well spent means working with the following frameworks and tools:
 
 <p>
 <img alt="Cypress" src="https://img.shields.io/badge/cypress-000000?logo=cypress&logoColor=white&style=for-the-badge" />
@@ -42,22 +49,14 @@ For me, a day well spent means working with the following frameworks and tools:
 <img alt="iterm2" src="https://img.shields.io/badge/iterm2-000000?logo=iterm2&logoColor=white&style=for-the-badge" />
 <img alt="Mocha" src="https://img.shields.io/badge/mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white&style=for-the-badge" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-
-  
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /> 
 </p>
 
-I take pleasure in crafting automated tests, transforming intricate test automation code into easily understandable, structured, and clean solutions. My approach is rooted in critical thinking, enabling me to readily embrace changes that enhance our current working environment.
+# 💻 Interests
 
-# 🔑 Keywords
-
-Effective communication & collaboration & reliable & transparent, software testing mindset, test automation proficiency, sharp manual testing, continuous integration, continuous deployment. 
-
-# 🗓 Latest
-
-* Nordic Testing Days 2023
-* Basic Course in Python Programming 2024
+- Coding, software development, and continuously improving my technical skills
+- Exploring AI and data science
 
 # :mailbox: How to reach me?
 
-If you need ideas or help regarding software testing or test automation, let me know, I will be happy to help <a href="mailto:kirtalindakarits@icloud.com">:email:</a> .
+- Please send an email: <a href="mailto:kirtalindakarits@icloud.com">:email:</a>
