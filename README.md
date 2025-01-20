@@ -56,6 +56,7 @@ Effective communication & collaboration & reliable & transparent, software testi
 # 🗓 Latest
 
 * Nordic Testing Days 2023
+* Basic Course in Python Programming 2024
 
 # :mailbox: How to reach me?
 
