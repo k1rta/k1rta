@@ -36,10 +36,10 @@
 <img alt="Confluence" src="https://img.shields.io/badge/confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" />
 <img alt="Notion" src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
 <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
-<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" />
 <img alt="GitHub" src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" />
 <img alt="GitHubActions" src="https://img.shields.io/badge/github-actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/python-000000?logo=python&logoColor=white&style=for-the-badge" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
 <img alt="Linear" src="https://img.shields.io/badge/linear-800080?logo=linear&logoColor=white&style=for-the-badge" />
 <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-181717?logo=jenkins&logoColor=white&style=for-the-badge" />
@@ -59,4 +59,4 @@
 
 # :mailbox: How to reach me?
 
-- Please send an email: <a href="mailto:kirtalindakarits@icloud.com">:email:</a>
+- Please send me an email <a href="mailto:kirtalindakarits@icloud.com">:email:</a>
